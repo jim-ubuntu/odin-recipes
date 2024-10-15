@@ -1,0 +1,19 @@
+/* styles.css  */
+
+.titles {
+	font-family: Arial, Verdana, Helvetica;
+
+}
+body {
+	font-family: Arial, Verdana, Helvetica;
+}
+ ol {
+	background: yellow;
+	
+}
+ul {
+	background: #33ccff;	
+}
+#breadtitle {
+	background: #ffd93b;
+}
