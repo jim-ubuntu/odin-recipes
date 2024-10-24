@@ -1,19 +1,46 @@
 /* styles.css  */
+/* {
+	outline: 1px solid blue;
+}*/
+
+* {
+font-family: Helvetica;	
+}
 
 .titles {
-	font-family: Arial, Verdana, Helvetica;
+	border: 10px solid blue;
+	border-radius: 15px;
+	width: 250px;
+	margin: auto;
+	padding: 8px;
 
 }
-body {
-	font-family: Arial, Verdana, Helvetica;
+
+
+div{
+	border: 5px solid blue;
+	padding: 5px ;
+	border-radius: 5px;
+	margin: 10px;
+	width: 300px;
+
 }
+p {
+	margin: 10px;
+	margin-bottom: 20px
+	margin-top: 20px;
+}
+
+
+body {
+}
+
+
+li {
+}
+
  ol {
-	background: yellow;
 	
 }
 ul {
-	background: #33ccff;	
-}
-#breadtitle {
-	background: #ffd93b;
 }
